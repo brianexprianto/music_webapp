@@ -51,12 +51,6 @@ export default {
         img: "https://i.scdn.co/image/ab67616d0000b273cf312a99e7451a59ef915f83"
       },
       {
-        title: "Tak Sanggup Melupa",
-        author: "Ziva Magnolya",
-        img:
-          "https://i.scdn.co/image/ab67616d0000b273e06baa46ed1930b96669f4c5"
-      },
-      {
         title: "SOUR",
         author: "Olivia Rodrigo",
         img:
